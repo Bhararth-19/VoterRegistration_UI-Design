@@ -1,0 +1,31 @@
+.page
+{
+	width:1000px;
+	height:auto;
+	border-style:groove;
+}
+
+.headerpart
+{
+	width:995px;
+	height:200px;
+	border-style:groove;
+	background-color:rgb(0,0,0);
+	background-image:url(images/header.jpg);
+	background-repeat:no-repeat;
+}
+.bodypart
+{
+	width:1000px;
+	height:600px;
+	border-style:groove;
+	text-align:left;
+}
+.footerpart
+{
+   width:998px;
+   height:28px;
+   margin-top:0px;
+   background-color:green;
+   border-style:groove;
+}
