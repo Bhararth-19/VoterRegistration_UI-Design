@@ -1,2 +1,2 @@
 # VoterRegistration_UI-Design
-I developed this website using Html and Css
+This is the simple User interface design for India Voter Registration 
